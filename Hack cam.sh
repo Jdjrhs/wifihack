@@ -15,7 +15,7 @@ endc='\E[0m'
 enda='\033[0m'
 blue='\e[1;34m'
 cyan='\e[1;36m'
-red='\e[1;31m
+red='\e[1;31m'
 
 figlet -f big -F gay HACKCAM
 
